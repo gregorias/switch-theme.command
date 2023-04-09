@@ -1,0 +1,4 @@
+#!/opt/homebrew/bin/fish
+switch_theme
+# Close the current kitty window. This script is meant to be run from Spotlight or Finder.
+kitty @ close-window
